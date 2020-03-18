@@ -1,0 +1,13 @@
+{
+    "casetype": "test_scenario_eric_v1",
+    "caseusertype": "usertype1",
+    "casedetails": [
+        {
+            "name": "simplecase",
+            "username": "test",
+            "userpassword": "test",
+            "quotaUrl":"app#/service?quote=123",
+            "price":"A$110.00(GST Incl.)"
+        }
+    ]
+}

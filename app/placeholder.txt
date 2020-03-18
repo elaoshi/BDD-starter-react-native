@@ -1,0 +1,3 @@
+put apk directly in this folder ( for android )
+or 
+put app folder in here ( for ios )
