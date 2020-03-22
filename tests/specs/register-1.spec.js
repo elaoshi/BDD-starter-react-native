@@ -1,7 +1,8 @@
 import { expect }   from 'chai';
 import LoginPage from '../pages/login.page';
 import { siteCredentials as credentials } from '../utils/utils';
-
+// Author : Eric
+// Version : 1.0.2
 import hook from "../helper/hooks";
 import getcasedetail from "../helper/data";
 import loginPage from '../pages/login.page';

@@ -1,3 +1,6 @@
+// Author : Eric
+// Version : 1.0.2
+
 import { expect }   from 'chai';
 import LoginPage from '../pages/login.page';
 import { siteCredentials as credentials } from '../utils/utils';

@@ -1,3 +1,6 @@
+// Author : Eric
+// Version : 1.0.2
+
 import helper from "./common";
 const Allure = require("allure-js-commons");
 
